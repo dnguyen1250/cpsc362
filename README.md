@@ -2,7 +2,7 @@
 Authors: Daniel Nguyen, Harry Dinh
 
 # Weight Loss App
-This app is designed to calculate the user's BMI and recommended daily caloric intake from a variety of inputs, such as the user's height and weight.
+This app is designed to calculate the user's BMI and recommended daily caloric intake from a variety of inputs, such as the user's height and weight. Currently in development.
 
 # Running
 The executable file is inteneded to run on a 64-bit Windows machine, on a reasonably modern CPU.
